@@ -17,16 +17,16 @@ Este repositório contém uma trilha prática e didática para aprender Python e
 
 | Módulo | Nível       | Título                                       | Branch                          | Tag                    |
 |--------|-------------|----------------------------------------------|----------------------------------|-------------------------|
-| 01     | Iniciante   | [Introdução à Análise de Dados](modulo-01)   | `modulo-01`                     | `modulo-01-finalizado`  |
-| 02     | Iniciante   | Visualização com Matplotlib e Seaborn        | `modulo-02`                     | `modulo-02-finalizado`  |
-| 03     | Iniciante   | Introdução ao SQL + Python                   | _a definir_                     | _a definir_             |
-| 04     | Intermediário | Limpeza e tratamento de dados              | _a definir_                     | _a definir_             |
-| 05     | Intermediário | Integração com MySQL                       | _a definir_                     | _a definir_             |
-| 06     | Intermediário | Análises estatísticas                     | _a definir_                     | _a definir_             |
-| 07     | Intermediário | Dashboard com Streamlit                    | _a definir_                     | _a definir_             |
-| 08     | Avançado    | Modelagem de dados com SQL e joins           | _a definir_                     | _a definir_             |
-| 09     | Avançado    | Machine Learning com dados de corrida        | _a definir_                     | _a definir_             |
-| 10     | Avançado    | Deploy do projeto final                     | _a definir_                     | _a definir_             |
+| 01     | Iniciante   | [Introdução à Análise de Dados](modulo-01)             | `modulo-01`                     | `modulo-01-finalizado`  |
+| 02     | Iniciante   | [Visualização com Matplotlib e Seaborn](modulo-02)     | `modulo-02`                     | `modulo-02-finalizado`  |
+| 03     | Iniciante   | Introdução ao SQL + Python                             | `modulo-03`                     | _a definir_             |
+| 04     | Intermediário | Limpeza e tratamento de dados                        | _a definir_                     | _a definir_             |
+| 05     | Intermediário | Integração com MySQL                                 | _a definir_                     | _a definir_             |
+| 06     | Intermediário | Análises estatísticas                                | _a definir_                     | _a definir_             |
+| 07     | Intermediário | Dashboard com Streamlit                              | _a definir_                     | _a definir_             |
+| 08     | Avançado    | Modelagem de dados com SQL e joins                     | _a definir_                     | _a definir_             |
+| 09     | Avançado    | Machine Learning com dados de corrida                  | _a definir_                     | _a definir_             |
+| 10     | Avançado    | Deploy do projeto final                                | _a definir_                     | _a definir_             |
 
 ---
 
