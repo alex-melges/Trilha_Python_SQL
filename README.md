@@ -19,7 +19,7 @@ Este repositório contém uma trilha prática e didática para aprender Python e
 |--------|-------------|----------------------------------------------|----------------------------------|-------------------------|
 | 01     | Iniciante   | [Introdução à Análise de Dados](modulo-01)             | `modulo-01`                     | `modulo-01-finalizado`  |
 | 02     | Iniciante   | [Visualização com Matplotlib e Seaborn](modulo-02)     | `modulo-02`                     | `modulo-02-finalizado`  |
-| 03     | Iniciante   | Introdução ao SQL + Python                             | `modulo-03`                     | _a definir_             |
+| 03     | Iniciante   | [Introdução ao SQL + Python](modulo-03)                | `modulo-03`                     | `modulo-03-finalizado`  |
 | 04     | Intermediário | Limpeza e tratamento de dados                        | _a definir_                     | _a definir_             |
 | 05     | Intermediário | Integração com MySQL                                 | _a definir_                     | _a definir_             |
 | 06     | Intermediário | Análises estatísticas                                | _a definir_                     | _a definir_             |
@@ -46,7 +46,16 @@ Trilha_Python_SQL/
 │   ├── visualizacao_dados.py
 │   ├── visualizar_dados.py
 │   └── README.md
+├── modulo-03/
+│   ├── criar_banco.py
+│   ├── inserir_dados.py
+│   ├── analise_corridas_completa.py
+│   ├── analise_corridas.py
+│   ├── consultas_basicas.py
+│   ├── corridas.db
+│   └── README.md
 └── README.md  ← você está aqui
+└── gui-git.md
 
 ## 🛠️ Tecnologias utilizadas até agora
 
@@ -54,5 +63,7 @@ Trilha_Python_SQL/
 - Pandas
 - Matplotlib
 - Seaborn
+- SQLite
+- SQLAlchemy
 - Git + GitHub
 - VS Code

@@ -50,5 +50,7 @@ Ao final deste módulo, você será capaz de:
 cd modulo-02
 ```
 
+---
+
 ## 📚 Próximo módulo
 Módulo 03 — Introdução ao SQL + Python

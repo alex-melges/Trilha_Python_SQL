@@ -72,5 +72,7 @@ Esta análise corresponde à branch:
 modulo-01-introducao-analise
 ```
 
+---
+
 ## 📚 Próximo módulo
 Módulo 02 — Visualização de Dados com Matplotlib e Seaborn
