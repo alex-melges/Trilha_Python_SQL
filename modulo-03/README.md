@@ -1,3 +1,5 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 # Módulo 03 — Introdução ao SQL + Python
 
 ## 🎯 Objetivo
@@ -81,5 +83,9 @@ pip install pandas sqlalchemy sqlite3
 ```
 ---
 
-## 📚 Próximo módulo
-Módulo 04 — Limpeza e Tratamento de Dados
+## 📜 Licença
+
+Este trabalho está licenciado sob a **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
+Você pode compartilhar e adaptar o material, inclusive para fins comerciais, desde que **os devidos créditos sejam atribuídos**.
+
+🔗 [Ver Licença](https://creativecommons.org/licenses/by/4.0/)

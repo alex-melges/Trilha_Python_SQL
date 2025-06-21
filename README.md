@@ -1,42 +1,40 @@
-# 🧠 Trilha Python + SQL para Análise e Ciência de Dados
+[![License: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-Este repositório contém uma trilha prática e didática para aprender Python e SQL com foco em Análise e Ciência de Dados, usando dados de corridas de rua como projeto base. A cada módulo, você evoluirá em complexidade, desde scripts simples até dashboards e machine learning.
+# 🧠 Trilha para Iniciantes de Python + SQL, voltado para uma Introdução à Análise de Dados
 
----
+Este repositório contém uma trilha prática e didática com foco em **Python** e **SQL**, utilizando dados de corridas de rua como projeto base, cujo objetivo inicial era de ser uma Introdução à Análise de Dados.
 
-## 📌 Estrutura da Trilha
+Durante os três primeiros módulos, desenvolvemos as principais habilidades da fase **iniciante**, passando por leitura, análise e visualização de dados, além de integração entre Python e SQL com banco de dados relacional (SQLite).
 
-- ✅ **10 módulos**, com níveis: Iniciante, Intermediário e Avançado
-- 🏷️ Cada módulo tem sua **própria branch**
-- 📁 Cada módulo possui um diretório próprio com README e scripts
-- 🔖 Cada módulo finalizado recebe uma **tag no Git**
+A partir daqui, este projeto será **encerrado como uma etapa concluída**, dando espaço para novas ideias com abordagens mais robustas.
 
 ---
 
-## 🚧 Progresso da Trilha
+## ✅ Status da Trilha
 
-| Módulo | Nível       | Título                                       | Branch                          | Tag                    |
-|--------|-------------|----------------------------------------------|----------------------------------|-------------------------|
-| 01     | Iniciante   | [Introdução à Análise de Dados](modulo-01)             | `modulo-01`                     | `modulo-01-finalizado`  |
-| 02     | Iniciante   | [Visualização com Matplotlib e Seaborn](modulo-02)     | `modulo-02`                     | `modulo-02-finalizado`  |
-| 03     | Iniciante   | [Introdução ao SQL + Python](modulo-03)                | `modulo-03`                     | `modulo-03-finalizado`  |
-| 04     | Intermediário | Limpeza e tratamento de dados                        | _a definir_                     | _a definir_             |
-| 05     | Intermediário | Integração com MySQL                                 | _a definir_                     | _a definir_             |
-| 06     | Intermediário | Análises estatísticas                                | _a definir_                     | _a definir_             |
-| 07     | Intermediário | Dashboard com Streamlit                              | _a definir_                     | _a definir_             |
-| 08     | Avançado    | Modelagem de dados com SQL e joins                     | _a definir_                     | _a definir_             |
-| 09     | Avançado    | Machine Learning com dados de corrida                  | _a definir_                     | _a definir_             |
-| 10     | Avançado    | Deploy do projeto final                                | _a definir_                     | _a definir_             |
+- ✅ Módulos Iniciantes finalizados
+- 🔒 Módulos Intermediários e Avançados — **não serão mais desenvolvidos neste repositório**
 
 ---
 
-## 🧩 Organização dos diretórios
+## 📚 Módulos Finalizados
+
+| Módulo | Nível     | Título                                               | Branch        | Tag                    |
+|--------|-----------|------------------------------------------------------|---------------|-------------------------|
+| 01     | Iniciante | [Introdução à Análise de Dados](modulo-01)          | `modulo-01`   | `modulo-01-finalizado` |
+| 02     | Iniciante | [Visualização com Matplotlib e Seaborn](modulo-02)  | `modulo-02`   | `modulo-02-finalizado` |
+| 03     | Iniciante | [Introdução ao SQL + Python](modulo-03)             | `modulo-03`   | `modulo-03-finalizado` |
+
+---
+
+## 🧩 Organização do Projeto
 
 ```bash
 Trilha_Python_SQL/
 ├── modulo-01/
 │   ├── analise_inicial.py
 │   ├── dados_corridas.csv
+│   ├── LICENSE
 │   └── README.md
 ├── modulo-02/
 │   ├── analise_geral.py
@@ -45,20 +43,23 @@ Trilha_Python_SQL/
 │   ├── detectar_anomalias.py
 │   ├── visualizacao_dados.py
 │   ├── visualizar_dados.py
+│   ├── LICENSE
 │   └── README.md
 ├── modulo-03/
 │   ├── criar_banco.py
 │   ├── inserir_dados.py
-│   ├── analise_corridas_completa.py
 │   ├── analise_corridas.py
+│   ├── analise_corridas_completa.py
 │   ├── consultas_basicas.py
 │   ├── corridas.db
+│   ├── LICENSE
 │   └── README.md
+├── LICENSE
 └── README.md  ← você está aqui
-└── gui-git.md
+```
 
-## 🛠️ Tecnologias utilizadas até agora
-
+## 🛠️ Tecnologias utilizadas
+```bash
 - Python 3.x
 - Pandas
 - Matplotlib
@@ -67,3 +68,11 @@ Trilha_Python_SQL/
 - SQLAlchemy
 - Git + GitHub
 - VS Code
+```
+
+## 📜 Licença
+
+Este trabalho está licenciado sob a **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
+Você pode compartilhar e adaptar o material, inclusive para fins comerciais, desde que **os devidos créditos sejam atribuídos**.
+
+🔗 [Ver Licença](https://creativecommons.org/licenses/by/4.0/)

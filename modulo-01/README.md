@@ -1,3 +1,5 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/Licença-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 # Módulo 01 — Introdução à Análise de Dados com Python e SQL
 
 ## 🎯 Objetivo
@@ -76,3 +78,10 @@ modulo-01-introducao-analise
 
 ## 📚 Próximo módulo
 Módulo 02 — Visualização de Dados com Matplotlib e Seaborn
+
+## 📜 Licença
+
+Este trabalho está licenciado sob a **Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)**.  
+Você pode compartilhar e adaptar o material, inclusive para fins comerciais, desde que **os devidos créditos sejam atribuídos**.
+
+🔗 [Ver Licença](https://creativecommons.org/licenses/by/4.0/)
